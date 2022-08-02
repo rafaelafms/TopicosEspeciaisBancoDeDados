@@ -1,7 +1,8 @@
 # Expressando preferências em SPARQL
 
 <p>
-Este arquivo mostra uma forma de expressar preferências no SPARQL, a implementação é baseada no uso do 'NOT EXISTS', <br />
+Este arquivo mostra uma forma de expressar preferências no SPARQL, <br /> 
+a implementação é baseada no uso do 'NOT EXISTS', <br />
 já implantado nos interpretadores SPARQL.
 </p>
 <p>
